@@ -1,0 +1,6 @@
+数据：垃圾邮件（SPAM）与正常邮件 （HAM）
+路径：\trec06c\data
+SPAM与HAM的预设：\trec06c\full 
+数据总数：6000
+停词文件：stopWord.txt
+
